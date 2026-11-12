@@ -1,23 +1,23 @@
-<h1 align="center">Привет, я Лука 👋</h1>
-<h3 align="center">fykkkke · Telegram-боты и сайты для бизнеса</h3>
+<h1 align="center">Hi, I'm Luka 👋</h1>
+<h3 align="center">fykkkke · Telegram bots & websites for small businesses</h3>
 
 <p align="center">
   <a href="https://t.me/fykkkkke"><img src="https://img.shields.io/badge/Telegram-@fykkkkke-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:lykymchik2009@gmail.com"><img src="https://img.shields.io/badge/Email-написать-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://feelweakk.github.io"><img src="https://img.shields.io/badge/Сайт-портфолио-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт"></a>
+  <a href="mailto:lykymchik2009@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://feelweakk.github.io"><img src="https://img.shields.io/badge/Website-portfolio-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
 ---
 
-### 🚀 Чем занимаюсь
+### 🚀 What I do
 
-- 🤖 **Telegram-боты** — онлайн-запись, приём заявок, каталоги, напоминания, автоматизация
-- 🌐 **Сайты** — лендинги и сайты-визитки, которые нормально выглядят на телефоне
-- 🧠 Изучаю **машинное обучение** на Python
+- 🤖 **Telegram bots** — online booking, lead capture, catalogues, reminders, automation
+- 🌐 **Websites** — landing pages and business sites that look great on phones
+- 🧠 Learning **machine learning** with Python
 
-💬 **Нужен бот или сайт?** Пишите в [Telegram](https://t.me/fykkkkke). Первая консультация бесплатная.
+💬 **Need a bot or a website?** Message me on [Telegram](https://t.me/fykkkkke) — the first consultation is free.
 
-### 🛠 Технологии
+### 🛠 Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -30,13 +30,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-### 📂 Проекты
+### 📂 Projects
 
-| Проект | Описание | Стек |
+| Project | Description | Stack |
 |---|---|---|
-| 💈 [booking-bot](https://github.com/feelweakk/booking-bot) | Бот онлайн-записи клиентов: услуги, слоты, уведомления владельцу, админка | Python, aiogram 3, SQLite |
-| 📋 [task-habit-bot](https://github.com/feelweakk/task-habit-bot) | Бот для задач и привычек со streak-счётчиком и статистикой | Python, python-telegram-bot, SQLite |
-| 🌱 [HabitBot](https://github.com/feelweakk/HabitBot) | Бот привычек с ИИ-советом дня на no-code платформе | Domino CRM |
-| 🌐 [feelweakk.github.io](https://github.com/feelweakk/feelweakk.github.io) | Мой сайт-портфолио | HTML, CSS |
-| ⚽ [ronaldo-website](https://github.com/feelweakk/ronaldo-website) | Адаптивный сайт о Криштиану Роналду · [демо](https://feelweakk.github.io/ronaldo-website) | HTML, CSS |
-| 📩 [spam-classifier](https://github.com/feelweakk/spam-classifier) | ML-модель для определения спама в SMS, точность 96.7% | Python, scikit-learn |
+| 💈 [booking-bot](https://github.com/feelweakk/booking-bot) | Online booking bot: services, time slots, owner notifications, admin panel | Python, aiogram 3, SQLite |
+| 📋 [task-habit-bot](https://github.com/feelweakk/task-habit-bot) | Tasks & habits bot with streak tracking and stats | Python, python-telegram-bot, SQLite |
+| 🌱 [HabitBot](https://github.com/feelweakk/HabitBot) | Habit bot with an AI tip of the day, built no-code | Domino CRM |
+| 🌐 [feelweakk.github.io](https://github.com/feelweakk/feelweakk.github.io) | My portfolio website · [live](https://feelweakk.github.io) | HTML, CSS |
+| ⚽ [ronaldo-website](https://github.com/feelweakk/ronaldo-website) | Responsive Cristiano Ronaldo fan site · [live](https://feelweakk.github.io/ronaldo-website) | HTML, CSS |
+| 📩 [spam-classifier](https://github.com/feelweakk/spam-classifier) | ML model that detects spam SMS with 96.7% accuracy | Python, scikit-learn |
